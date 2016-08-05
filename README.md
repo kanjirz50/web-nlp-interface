@@ -50,6 +50,7 @@ We can use some servers, [Bottle-Deployment](http://bottlepy.org/docs/dev/deploy
 
 # Examples
 - [Snowman](http://snowman.jnlp.org/english)
+  - [Screen capture](https://a13ed10a-a-dee0cc0a-s-sites.googlegroups.com/a/jnlp.org/snowman/snowman/雪だるまH28.4.8.PNG)
   - Japanese word analyzer
   - This analyzer is Web-based system.
 
