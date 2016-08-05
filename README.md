@@ -1,6 +1,8 @@
 # web-nlp-interface
 This tool helps releasing own research for NLP researcher.
 
+![demonstration image](screen_shot.png)
+
 # Usage
 
 ## Run the example demonstration
