@@ -1,5 +1,11 @@
-# web-nlp-interface
-This tool helps releasing own research for NLP researcher.
+# NLP Web Demonstration Template
+This template helps releasing own research for NLP researcher.
+
+Knowledge requirements for customizing the template:
+- basic Python
+- basic HTML
+- basic javascript (jquery)
+- basic web application
 
 ![demonstration image](screen_shot.png)
 
@@ -41,6 +47,11 @@ You have to modify rendering codes.
 
 # Deployment
 We can use some servers, [Bottle-Deployment](http://bottlepy.org/docs/dev/deployment.html).
+
+# Examples
+- [Snowman](http://snowman.jnlp.org/english)
+  - Japanese word analyzer
+  - This analyzer is Web-based system.
 
 # Acknowledgment
 This demonstration templates uses the following open source software:
