@@ -48,11 +48,16 @@ You have to modify rendering codes.
 # Deployment
 We can use some servers, [Bottle-Deployment](http://bottlepy.org/docs/dev/deployment.html).
 
+# Template structure
+Coming soon...
+
 # Examples
 - [Snowman](http://snowman.jnlp.org/english)
   - [Screen capture](https://a13ed10a-a-dee0cc0a-s-sites.googlegroups.com/a/jnlp.org/snowman/snowman/雪だるまH28.4.8.PNG)
   - Japanese word analyzer
   - This analyzer is Web-based system.
+- [Vietnamese morphological analyzer](http://160.16.58.116/vietnamese/morph)
+  - Provide joint word segmentation and part-of-speech tagging.
 
 # Acknowledgment
 This demonstration templates uses the following open source software:
