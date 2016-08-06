@@ -48,6 +48,21 @@ You have to modify rendering codes.
 # Deployment
 We can use some servers, [Bottle-Deployment](http://bottlepy.org/docs/dev/deployment.html).
 
+## heroku
+[heroku](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiCgfn8hazOAhUJLpQKHRqGDIoQFggeMAA&url=https%3A%2F%2Fwww.heroku.com%2F&usg=AFQjCNF8-hoB8iHVyZ2dDq3bYi_oSmHVtg&sig2=20_imTu9nCbUki1bwi8AuA) is a cloud application platform that can build and run application.
+
+If you use default templates, the template runs on the heroku only push the repository.
+
+Example:[http://web-nlp-interface-template.herokuapp.com/](http://web-nlp-interface-template.herokuapp.com/)
+
+These are the summary of a heroku settings.
+- Procfile
+  - is a declares what commands are run by an application
+- requirements.txt
+  - Python module (pip) dependecy
+- runtime.txt
+  - set Python version
+
 # Template structure
 Coming soon...
 
