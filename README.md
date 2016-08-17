@@ -1,4 +1,6 @@
 # NLP Web Demonstration Template
+([日本語での説明はこちらから](README_JP.md))
+
 This template helps releasing own research for NLP researcher.
 
 Knowledge requirements for customizing the template:
